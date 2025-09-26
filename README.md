@@ -1,6 +1,6 @@
 # MERN Todo List
 
-A simple todo list application built with the MERN stack (MongoDB, Express.js, React.js, Node.js) - perfect for a 1-hour workshop!
+A simple todo list application built with the MERN stack (MongoDB, Express.js, React.js, Node.js). This is a note for ASU Women in Computer Science (WiCs) Careers & TIPS workshop. If you have any problem setting up this project, please reach out to me through WiCs discord, username: imatiramisuhunter. Or my email: thiquynh@asu.edu
 
 ## Features
 
